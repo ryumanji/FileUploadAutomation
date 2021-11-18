@@ -1,0 +1,9 @@
+SMB:
+  UserName: '*******'
+  Password: '********'
+  HOST: '****.****.co.jp'
+  IP: '***.***.***.***'
+Redmine:
+  UserName: '******'
+  Password: '*********'
+  UploadUrl: 'https://****.****.co.jp'
